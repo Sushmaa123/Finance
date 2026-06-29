@@ -1,0 +1,17 @@
+.container1{
+.container{
+    border: 2px solid black;
+    width: 400px;
+    border-radius: 7px;
+    background-color: black;
+    height: 100;
+    .fsection{
+        display: flex;
+        justify-content: center;
+    }
+    #s1{
+        width: 200px;
+        height: 200px;
+    }
+}
+}
